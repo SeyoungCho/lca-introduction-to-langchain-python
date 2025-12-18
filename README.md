@@ -79,11 +79,11 @@ jupyter lab
 ```
 
 ## 📚 Lessons
-This repository contains four sections of notebooks that serve as introductions to many of the most-used features in LangChain.
+This repository contains three Modules that serve as introductions to many of LangChain's most-used features.
 
 ---
 
-### Section 1: Create Agents
+### Module 1: Create Agents
 
 - Foundational models
 - Prompting
@@ -92,7 +92,7 @@ This repository contains four sections of notebooks that serve as introductions 
 - multimodal messages
 - Project: Personal chef
 
-### Section 2: Advanced Agent Tools
+### Module 2: Advanced Agent Tools
 
 - MCP
 - Runtime context (context, ToolRuntime)
@@ -100,17 +100,13 @@ This repository contains four sections of notebooks that serve as introductions 
 - Multi-agent
 - Project: Destination wedding planner
 
-### Section 3: Solving Advanced Problems with Middleware
+### Module 3: Solving Advanced Problems with Middleware
 
 - Summarisation
 - HITL
 - Dynamic Prompts/Tool Calling/Model Selection
 - Project: Email agent
-
-### Section 4: Deployment
-
 - Agent Chat UI
-- Deploy on LangSmith, then tie back into Agent Chat UI
 
 ## 📖 Related Resources
 
